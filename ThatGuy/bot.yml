@@ -99,12 +99,12 @@ Questions:
   How do you confuse a blond: Paint yourself green and throw forks at her.
   Paint green and throw forks: The point of this Anti-Joke is that painting yourself green and throwing forks at someone would confuse anyone.
 
-#  how many times have I died: "You have died {deaths} times"
-#  how many times have I lived: "You have lived through {deaths} lives"
-#  when did I first join: "You first joined on {firstJoin}"
-#  how much health do I have: "You have {health} hearts"
-#  how long have I played for: "You have played for {totalTime}"
-#  what is my total play time: "Your total play time is {totalTime}"
+  how many times have I died: "You have died {deaths} times"
+  how many times have I lived: "You have lived through {deaths} lives"
+  when did I first join: "You first joined on {firstJoin}"
+  how much health do I have: "You have {health} hearts"
+  how long have I played for: "You have played for {totalTime}"
+  what is my total play time: "Your total play time is {totalTime}"
 
   joke#2: A dyslexic man walks into a bra.
   joke#3: "Knock knock. Who's there? To. To who? To whom."
