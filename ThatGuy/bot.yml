@@ -87,7 +87,7 @@ Questions:
   thatguy who is your master: Not you
   thatguy what is cookie: Sweet and Sugary
   '!i am so mad': Take a chillpill
-  i am so mad: '/give %player% 370 1 {display:{Name:"§3§l§nChill Pill"}}'
+  i am so mad: '/give %player% 370 1 {display:{Name:"Â§3Â§lÂ§nChill Pill"}}'
   why was six afraid of seven: Because seven was a registered six offender
   why was 6 afraid of 7: Because seven was a registered six offender
   why was six afraid of Se7ven: "He wasn't you are"
@@ -134,3 +134,4 @@ Questions:
   thatguy im begging you: nah~
   ThatGuy do you like: I can't answer that
   thatguy what is: Please try another Function
+  hello. its me.: SHADDUP I HATE THAT SONG
