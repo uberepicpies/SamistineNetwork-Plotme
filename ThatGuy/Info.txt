@@ -1,1 +1,0 @@
-bot.yml contains the phrases and answers
