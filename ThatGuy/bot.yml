@@ -52,6 +52,7 @@ Questions:
   ?ask: "If you have a question, please just ask it. Don't look for staff or topic experts. Don't ask to ask or ask if people are awake or available. Just ask the question to the channel straight out, and wait patiently for a reply."
   mc-central: this server is probably better, also spam adertising shows how bad a server you are, and won't get you players from this server as we have more things that don't cost money.
   jump off a: Do a backflip
+  ThatGuy slap me if: And if I say no?
   '!slap me thatguy': '!Slippidy Slap, there goes %player%'
   'slap me thatguy': '/af slap %player%'
   'look up now': '/deathbyanvil %player%'
@@ -129,6 +130,15 @@ Questions:
   
   "hello its me": SHADDUP I DISLIKE THAT SONG
   what happened to trusted: I ate it om nom nom
+  what is pig latin: isThay isway igpay atinlay
+  how use worldedit: http://wiki.sk89q.com/wiki/WorldEdit/Reference
+  how set warp: Use /pwarp set <name>
+  how see warps: Use /pwarp assets
+  how make infinite dispenser: Place a sign on the dispenser and on the second line write [Infinite Sam]
+  thatguy are you a walrus: Arf
+  what are those: Crocs. They are Crocs...
+  thatguy i think i'm turning japanese: You really think so?
+  bashcommando: '/kick %player% &f&lFilter evasion -&4~&f&l&oBash'
   
   #STOP#STOP# END END #STOP#STOP#: ""
   #STOP#STOP# END END #STOP#STOP#: ""
